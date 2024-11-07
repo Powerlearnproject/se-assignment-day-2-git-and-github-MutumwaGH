@@ -7,7 +7,7 @@ GitHub is a popular version control tool because:
 
 Collaboration: GitHub allows multiple people to work on the same project and merge changes seamlessly.
 
-Backup: GitHub stores code in a cloud-based repository, making it accessible from anywhere.
+Backup: GitHub stores code in a cloud-based repository, making it accessible from anywhere. 
 
 History: It keeps a detailed history of changes, so you can revert to previous versions if needed.
 
